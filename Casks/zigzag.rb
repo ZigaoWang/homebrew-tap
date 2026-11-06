@@ -25,5 +25,5 @@ cask "zigzag" do
     "~/Library/WebKit/wang.zigao.zigzag",
   ]
 
-  caveats "Zigzag needs macOS 15.4 or later."
+  caveats "Zigzag needs macOS 15.4 or later. It won’t open on macOS 15.0 to 15.3."
 end
