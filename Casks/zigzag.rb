@@ -1,6 +1,6 @@
 cask "zigzag" do
-  version "0.5.16"
-  sha256 "b839ec8cbf0fc16e00834343a804005a39113286b959a6922adf008e7997f7bd"
+  version "0.5.17"
+  sha256 "40588fa752d8f8081fd20cda39252c287ddb4df961aaff955af4bcab5f4c6917"
 
   url "https://github.com/ZigaoWang/zigzag/releases/download/v#{version}/Zigzag-#{version}.dmg"
   name "Zigzag"
